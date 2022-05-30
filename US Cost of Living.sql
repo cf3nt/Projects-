@@ -1,7 +1,7 @@
 --I downloaded the cost of living data in the U.S. from the advisorsmith.com article by Adrain Mak. In excel, I added a region column, turned each region into its own sheet/ table(in sql) 
 --and worked on querying the data in SSMS.
 --https://advisorsmith.com/data/coli/#city is the link to the data being used.
--- COLI = Cost of Living Index
+--COLI = Cost of Living Index
 
  
 
